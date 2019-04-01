@@ -3,8 +3,13 @@
 This repository is an attempt to translate the Mapbox Native GL Android example app 
 (available here: https://github.com/Yermo/MapboxTest ) into a Nativescript Android app. 
 
-It was initially created using "tns create [<App Name>] --ng [--path <Directory>] [--appid <App ID>]" and as such
-has some extraneous sample code. 
+It was initially created using 
+
+```
+tns create [<App Name>] --ng [--path <Directory>] [--appid <App ID>]" 
+```
+
+and as such has some extraneous sample code. 
 
 It creates an android activity in src/app/activity.android.ts which is referenced from App_Resources/Android/src/main/AndroidManifest.xml.
 
