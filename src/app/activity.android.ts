@@ -8,7 +8,7 @@
 
 const ACCESS_TOKEN : any = 'set access token here';
 
-const mapStyle = com.mapbox.mapboxsdk.constants.Style.LIGHT;
+const mapStyle = com.mapbox.mapboxsdk.maps.Style.LIGHT;
 // const mapStyle = 'URL of custom style';
 
 
